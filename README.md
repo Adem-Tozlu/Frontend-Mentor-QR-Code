@@ -48,7 +48,7 @@ In the future, I plan to continue improving my skills in the CSS area, especiall
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Adem-Tozlu/Frontend-Mentor-QR-Code)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Adem-Tozlu)
+- Website - [Github](https://github.com/Adem-Tozlu/Frontend-Mentor-QR-Code)
+- Frontend Mentor - [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
 
 
