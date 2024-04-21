@@ -23,8 +23,8 @@ Dies ist eine Lösung für die [QR-Code-Komponenten-Herausforderung auf Frontend
 
 ### Links
 
-- Lösungs-URL: [Lösungs-URL hier hinzufügen](https://your-solution-url.com)
-- Live-Site-URL: [Fügen Sie hier eine Live-Site-URL hinzu](https://your-live-site-url.com)
+- Lösungs-URL: [Github-Lösungen](https://github.com/Adem-Tozlu/Frontend-Mentor-QR-Code)
+- Live-Site-URL: [Website-QR-Code](https://frontend-mentor-qr-code-drab-ten.vercel.app/)
 
 ## Mein Prozess
 
@@ -49,5 +49,5 @@ In Zukunft plane ich, meine Fähigkeiten im CSS-Bereich weiter zu verbessern, in
 
 ##Autor
 
-- Website - [Github](https://github.com/Adem-Tozlu/Frontend-Mentor-QR-Code)
+- Website - [Github](https://github.com/Adem-Tozlu)
 - Frontend-Mentor – [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)

@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github-Solution](https://github.com/Adem-Tozlu/Frontend-Mentor-QR-Code)
+- Live Site URL: [Website-QR.Code](https://frontend-mentor-qr-code-drab-ten.vercel.app/)
 
 ## My process
 
@@ -48,7 +48,7 @@ In the future, I plan to continue improving my skills in the CSS area, especiall
 
 ## Author
 
-- Website - [Github](https://github.com/Adem-Tozlu/Frontend-Mentor-QR-Code)
-- Frontend Mentor - [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
+- Website - [Github](https://github.com/Adem-Tozlu)
+- Frontend Mentor - [@AdemTozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
 
 
