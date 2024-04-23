@@ -42,13 +42,12 @@ Over the course of this project I continued to improve in Flexbox. I learned how
 
 ### Continued development
 
-In der Zukunft plane ich, meine Fähigkeiten im CSS-Bereich weiter zu verbessern, insbesondere in Bezug auf Flexbox und Grid. Mein Ziel ist es, komplexere Webseiten zu erstellen und sie besser zu gestalten. Darüber hinaus möchte ich auch an meinen Fähigkeiten in der Erstellung von Animationen arbeiten und mich in diesem Bereich weiterentwickeln!
-
 In the future, I plan to continue improving my skills in the CSS area, especially related to Flexbox and Grid. My goal is to create more complex websites and design them better. In addition, I would also like to work on my skills in creating animations and develop myself further in this area!
 
 ## Author
 
 - Website - [Github](https://github.com/Adem-Tozlu)
 - Frontend Mentor - [@AdemTozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
+- Linkedin - [@Adem-Tozlu](https://www.linkedin.com/in/adem-tozlu-8906b52a5)
 
 
