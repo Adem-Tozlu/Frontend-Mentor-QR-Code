@@ -4,20 +4,21 @@ Dies ist eine Lösung für die [QR-Code-Komponenten-Herausforderung auf Frontend
 
 ## Inhaltsverzeichnis
 
-- [Übersicht](#Übersicht)
+- [Übersicht](#übersicht)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Mein Prozess](#my-process)
-  - [Erstellt mit](#built-with)
-  - [Was ich gelernt habe](#what-i-learned)
-  - [Fortsetzung der Entwicklung](#continued-development)
-- [Autor](#Autor)
+- [Mein Prozess](#mein-prozess)
+  - [Erstellt mit](#erstellt-mit)
+  - [Was ich gelernt habe](#was-ich-gelernt-habe)
+  - [Fortsetzung der Entwicklung](#weiterentwicklung)
+- [Autor](#autor)
+
 
 
 
 ## Überblick
 
-### Bildschirmfoto
+### Screenshot
 
 ![Screenshot](images/mobile-qr-code.png)
 
@@ -28,7 +29,8 @@ Dies ist eine Lösung für die [QR-Code-Komponenten-Herausforderung auf Frontend
 
 ## Mein Prozess
 
-### Gebaut mit
+### Erstellt mit
+
 
 - Semantisches HTML5-Markup
 - Benutzerdefinierte CSS-Eigenschaften
@@ -45,7 +47,7 @@ Im Laufe dieses Projekts habe ich mich in Flexbox weiter verbessert. Ich habe ge
 
 In Zukunft plane ich, meine Fähigkeiten im CSS-Bereich weiter zu verbessern, insbesondere im Zusammenhang mit Flexbox und Grid. Mein Ziel ist es, komplexere Websites zu erstellen und diese besser zu gestalten. Darüber hinaus möchte ich auch an meinen Fähigkeiten im Erstellen von Animationen arbeiten und mich in diesem Bereich weiterentwickeln!
 
-##Autor
+## Autor
 
 - Website - [Github](https://github.com/Adem-Tozlu)
 - Frontend-Mentor – [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
